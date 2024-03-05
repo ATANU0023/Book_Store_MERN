@@ -53,3 +53,21 @@ npm i react-router-dom
 ```
 npm i axios react-icons
 ```
+
+
+
+## To run the code
+
+### go to backend folder
+```
+cd backend
+```
+### then
+``` npm run dev ```
+
+### go to frontend folder
+```
+cd backend
+```
+### then
+``` npm run dev ```
